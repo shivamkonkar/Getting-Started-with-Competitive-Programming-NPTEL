@@ -8,7 +8,7 @@ public static void reverse(int[] input , int start , int end){
         }
     }
 
-    public static int[] reverseSort(int[] input){
+public static int[] reverseSort(int[] input){
         int cost = 0;
         int length = input.length;
         for(int i = 0 ; i < length - 1 ; i++){
